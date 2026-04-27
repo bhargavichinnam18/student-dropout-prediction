@@ -1,3 +1,0 @@
-* text=auto
-*.csv text eol=crlf
-*.py text eol=lf
